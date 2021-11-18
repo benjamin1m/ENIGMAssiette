@@ -31,7 +31,7 @@ public class RestaurantListAdapter extends RecyclerView.Adapter<RestaurantListAd
 
     @Override
     public void onBindViewHolder(@NonNull RestaurantListAdapter.RestaurantViewHolder holder, int position) {
-
+        
     }
 
 
